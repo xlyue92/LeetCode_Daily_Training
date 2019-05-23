@@ -5,5 +5,5 @@ My personal leetcode practice, random selection
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
 ### Table
-1) power of two
+1) [power of two](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/%20power%20of%20two.ipynb)
 2) multiply strings
