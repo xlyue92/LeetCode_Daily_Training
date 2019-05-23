@@ -4,3 +4,6 @@ My personal leetcode practice, random selection
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
+### Table
+#1 power of two
+#2 multiply strings
