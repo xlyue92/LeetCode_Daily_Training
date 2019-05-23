@@ -6,4 +6,4 @@ My personal leetcode practice, random selection
 3) mixed with hackerrank practice & checkio
 ### Table
 1) [power of two](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/%20power%20of%20two.ipynb)
-2) multiply strings
+2) [multiply strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/multiply%20strings.ipynb)
