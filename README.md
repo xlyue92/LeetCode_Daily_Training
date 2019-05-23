@@ -6,4 +6,5 @@ My personal leetcode practice, random selection
 3) mixed with hackerrank practice & checkio
 ### Table
 #1 power of two
+
 #2 multiply strings
