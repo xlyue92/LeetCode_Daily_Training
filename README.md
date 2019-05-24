@@ -9,3 +9,4 @@ My personal leetcode practice, random selection
 2) [multiply strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/multiply%20strings.ipynb)
 3) [move zeros](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/move%20zeros.ipynb)
 4) [single number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number.ipynb)
+5) [largest perimeter triangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/largest%20perimeter%20triangle.ipynb)
