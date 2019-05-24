@@ -8,3 +8,4 @@ My personal leetcode practice, random selection
 1) [power of two](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/%20power%20of%20two.ipynb)
 2) [multiply strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/multiply%20strings.ipynb)
 3) [move zeros](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/move%20zeros.ipynb)
+4) [single number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number.ipynb)
