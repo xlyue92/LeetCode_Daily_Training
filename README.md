@@ -11,3 +11,4 @@ My personal leetcode practice, random selection
 4) [single number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number.ipynb)
 5) [largest perimeter triangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/largest%20perimeter%20triangle.ipynb)
 6) [fibonacci number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/fibonacci%20number.ipynb)
+7) [two sum](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/two%20sum.ipynb)
