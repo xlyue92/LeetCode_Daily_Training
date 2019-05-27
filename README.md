@@ -14,3 +14,4 @@ My personal leetcode practice, random selection
 7) [two sum](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/two%20sum.ipynb)
 8) [first missing positive](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/first%20missing%20positive.ipynb)
 9) [power of three](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/power%20of%20three.ipynb)
+10) [squares of a sorted array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/squares%20of%20a%20sorted%20array.ipynb)
