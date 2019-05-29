@@ -18,3 +18,4 @@ My personal leetcode practice, random selection
 11) [height checker](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/height%20checker.ipynb)
 12) [permutations](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/permutations.ipynb)
 13) [reverse only letters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20only%20letters.ipynb)
+14) [add to array-form of integer](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/add%20to%20array-form%20of%20integer.ipynb)
