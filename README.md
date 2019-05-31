@@ -22,3 +22,4 @@ My personal leetcode practice, random selection
 15) [sum of square numbers](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/sum%20of%20square%20numbers.ipynb)
 16) [sqrt(x)](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/sqrt(x).ipynb)
 17) [valid boomerang](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20boomerang.ipynb)
+18) [perfect number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/perfect%20number.ipynb)
