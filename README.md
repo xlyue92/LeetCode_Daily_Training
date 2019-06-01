@@ -24,3 +24,4 @@ My personal leetcode practice, random selection
 17) [valid boomerang](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20boomerang.ipynb)
 18) [perfect number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/perfect%20number.ipynb)
 19) [n-repeated element in size 2n array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/n-repeated%20element%20in%20size%202n%20array.ipynb)
+20) [longest common prefix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/longest%20common%20prefix.ipynb)
