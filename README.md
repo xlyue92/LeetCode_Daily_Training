@@ -28,3 +28,4 @@ My personal leetcode practice, random selection
 21) [jewels and stones](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/jewels%20and%20stones.ipynb)
 22) [self dividing numbers](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/self%20dividing%20numbers.ipynb)
 23) [majority element](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/majority%20element.ipynb)
+24) [majority element II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/majority%20element%20II.ipynb)
