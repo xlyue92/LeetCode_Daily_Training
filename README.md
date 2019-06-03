@@ -7,5 +7,7 @@ My personal leetcode practice, random selection
 ### Table
 01) [power of two](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/%20power%20of%20two.ipynb)
 02) [multiply strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/multiply%20strings.ipynb)
-...
+
+      ......
+   
 30) [remove all adjacent duplicates in string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string.ipynb)
