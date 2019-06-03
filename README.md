@@ -8,6 +8,8 @@ My personal leetcode practice, random selection
 * [power of two](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/%20power%20of%20two.ipynb)
 * [multiply strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/multiply%20strings.ipynb)
 
-     ......
+     ...
+     
+     ...
    
 * [string to integer(atoi)](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/string%20to%20integer(atoi).ipynb)
