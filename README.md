@@ -10,4 +10,4 @@ My personal leetcode practice, random selection
 
       ......
    
-30) [remove all adjacent duplicates in string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string.ipynb)
+030) [remove all adjacent duplicates in string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string.ipynb)
