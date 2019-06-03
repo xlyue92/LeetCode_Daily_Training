@@ -33,3 +33,4 @@ My personal leetcode practice, random selection
 26) [find the difference](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20the%20difference.ipynb)
 27) [valid perfect square](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20perfect%20square.ipynb)
 28) [contains duplicate](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/contains%20duplicate.ipynb)
+29) [contains duplicate II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/contains%20duplicate%20II.ipynb)
