@@ -31,3 +31,4 @@ My personal leetcode practice, random selection
 24) [majority element II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/majority%20element%20II.ipynb)
 25) [missing number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/missing%20number.ipynb)
 26) [find the difference](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20the%20difference.ipynb)
+27) [valid perfect square](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20perfect%20square.ipynb)
