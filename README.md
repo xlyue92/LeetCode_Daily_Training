@@ -10,4 +10,4 @@ My personal leetcode practice, random selection
 
      ......
    
-* [remove all adjacent duplicates in string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string.ipynb)
+* [string to integer(atoi)](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/string%20to%20integer(atoi).ipynb)
