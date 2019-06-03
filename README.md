@@ -34,3 +34,4 @@ My personal leetcode practice, random selection
 27) [valid perfect square](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20perfect%20square.ipynb)
 28) [contains duplicate](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/contains%20duplicate.ipynb)
 29) [contains duplicate II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/contains%20duplicate%20II.ipynb)
+30) [remove all adjacent duplicates in string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string.ipynb)
