@@ -12,4 +12,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [string to integer(atoi)](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/string%20to%20integer(atoi).ipynb)
+* [single number II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number%20II.ipynb)
