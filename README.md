@@ -1,5 +1,5 @@
 # LeetCode_Daily_Training
-My personal leetcode practice, random selection
+My personal leetcode practice, random selection (initial date: May 23rd)
 ### Update everyday (33)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
