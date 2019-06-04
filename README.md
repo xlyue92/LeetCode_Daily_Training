@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (31)
+### Update everyday (33)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [single number II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number%20II.ipynb)
+* [add digits](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/add%20digits.ipynb)
