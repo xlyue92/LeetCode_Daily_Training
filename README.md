@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [add digits](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/add%20digits.ipynb)
+* [k-th smallest element in a sorted matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/k-th%20smallest%20element%20in%20a%20sorted%20matrix.ipynb)
