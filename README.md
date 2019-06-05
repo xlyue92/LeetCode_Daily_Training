@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (34)
+### Update everyday (35)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [k-th smallest element in a sorted matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/k-th%20smallest%20element%20in%20a%20sorted%20matrix.ipynb)
+* [base 7](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/base%207.ipynb)
