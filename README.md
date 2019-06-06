@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [find smallest letter greater than target](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20smallest%20letter%20greater%20than%20target.ipynb)
+* [excel sheet column number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/excel%20sheet%20column%20number.ipynb)
