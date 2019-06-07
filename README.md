@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (40)
+### Update everyday (41)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [excel sheet column number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/excel%20sheet%20column%20number.ipynb)
+* [isomorphic strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/isomorphic%20strings.ipynb)
