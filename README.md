@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (41)
+### Update everyday (42)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [isomorphic strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/isomorphic%20strings.ipynb)
+* [intersection of two arrays](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/intersection%20of%20two%20arrays.ipynb)
