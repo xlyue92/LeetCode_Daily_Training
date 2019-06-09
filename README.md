@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [two sum II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/two%20sum%20II.ipynb)
+* [ugly number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/ugly%20number.ipynb)
