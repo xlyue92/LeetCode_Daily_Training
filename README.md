@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (45)
+### Update everyday (46)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [ugly number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/ugly%20number.ipynb)
+* [valid square](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20square.ipynb)
