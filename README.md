@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [reverse word in a string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20words%20in%20a%20string.ipynb)
+* [reverse words in a string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20words%20in%20a%20string.ipynb)
