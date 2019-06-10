@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (47)
+### Update everyday (48)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [single number III](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20number%20III.ipynb)
+* [remove element](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20element.ipynb)
