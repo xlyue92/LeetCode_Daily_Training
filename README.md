@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (50)
+### Update everyday (51)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [reverse words in a string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20words%20in%20a%20string.ipynb)
+* [reverse words in a string III](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20words%20in%20a%20string%20III.ipynb)
