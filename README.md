@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (52)
+### Update everyday (53)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [find pivot index](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20pivot%20index.ipynb)
+* [to lower case](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/to%20lower%20case.ipynb)
