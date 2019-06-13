@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (56)
+### Update everyday (57)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [complement of base 10 integer](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/complement%20of%20base%2010%20integer.ipynb)
+* [maximum product of three numbers](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/maximum%20product%20of%20three%20numbers.ipynb)
