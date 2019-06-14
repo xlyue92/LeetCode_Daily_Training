@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [custom sort string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/custom%20sort%20string.ipynb)
+* [kth largest element in an array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/kth%20largest%20element%20in%20an%20array.ipynb)
