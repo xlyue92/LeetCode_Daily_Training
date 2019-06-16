@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (61)
+### Update everyday (62)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [third maximum number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/third%20maximum%20number.ipynb)
+* [uncommon words from two sentences](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/uncommon%20words%20from%20two%20sentences.ipynb)
