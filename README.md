@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (63)
+### Update everyday (64)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [next greater element I](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/next%20greater%20element%20I.ipynb)
+* [duplicate zeros](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/duplicate%20zeros.ipynb)
