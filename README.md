@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (65)
+### Update everyday (66)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [single element in a sorted array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single%20element%20in%20a%20sorted%20array.ipynb)
+* [smallest range I](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/smallest%20range%20I.ipynb)
