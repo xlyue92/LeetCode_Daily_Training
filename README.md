@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [smallest range I](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/smallest%20range%20I.ipynb)
+* [array partition I](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/array%20partition%20I.ipynb)
