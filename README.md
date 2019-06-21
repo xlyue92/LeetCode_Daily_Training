@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (69)
+### Update everyday (70)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [reverse integer](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20integer.ipynb)
+* [sort array by parity](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/sort%20array%20by%20parity.ipynb)
