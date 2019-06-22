@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (70)
+### Update everyday (71)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [sort array by parity](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/sort%20array%20by%20parity.ipynb)
+* [hamming distance](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/hamming%20distance.ipynb)
