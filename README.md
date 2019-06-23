@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (71)
+### Update everyday (72)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [hamming distance](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/hamming%20distance.ipynb)
+* [keyboard row](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/keyboard%20row.ipynb)
