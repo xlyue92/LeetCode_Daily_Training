@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (73)
+### Update everyday (74)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [implement strStr()](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/implement%20strStr().ipynb)
+* [happy number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/happy%20number.ipynb)
