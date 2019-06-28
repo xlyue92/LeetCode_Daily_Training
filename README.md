@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (75)
+### Update everyday (76)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [di string match](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/di%20string%20match.ipynb)
+* [shortest distance to a character](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/shortest%20distance%20to%20a%20character.ipynb)
