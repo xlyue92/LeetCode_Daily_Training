@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (76)
+### Update everyday (77)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [shortest distance to a character](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/shortest%20distance%20to%20a%20character.ipynb)
+* [find common characters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20common%20characters.ipynb)
