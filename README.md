@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (77)
+### Update everyday (78)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [find common characters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20common%20characters.ipynb)
+* [unique email addresses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/unique%20email%20addresses.ipynb)
