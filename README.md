@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (80)
+### Update everyday (81)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [transpose matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/transpose%20matrix.ipynb)
+* [find and replace pattern](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20and%20replace%20pattern.ipynb)
