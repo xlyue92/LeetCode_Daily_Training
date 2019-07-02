@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (79)
+### Update everyday (80)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [distribute candies to people](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/distribute%20candies%20to%20people.ipynb)
+* [transpose matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/transpose%20matrix.ipynb)
