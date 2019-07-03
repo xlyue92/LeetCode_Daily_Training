@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (82)
+### Update everyday (84)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [goat latin](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/goat%20latin.ipynb)
+* [minimum falling path sum](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/minimum%20falling%20path%20sum.ipynb)
