@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [long pressed name](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/long%20pressed%20name.ipynb)
+* [goat latin](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/goat%20latin.ipynb)
