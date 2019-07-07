@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (88)
+### Update everyday (89)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [reshape the matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reshape%20the%20matrix.ipynb)
+* [subsets](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/subsets.ipynb)
