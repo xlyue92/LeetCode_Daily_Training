@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (89)
+### Update everyday (92)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [subsets](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/subsets.ipynb)
+* [find all duplicates in an array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20all%20duplicates%20in%20an%20array.ipynb)
