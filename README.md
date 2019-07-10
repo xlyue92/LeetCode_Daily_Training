@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (96)
+### Update everyday (97)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [construct the rectangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/construct%20the%20rectangle.ipynb)
+* [defanging an IP address](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/defanging%20an%20IP%20address.ipynb)
