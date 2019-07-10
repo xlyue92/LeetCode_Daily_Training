@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (95)
+### Update everyday (96)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [first unique character in a string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/first%20unique%20character%20in%20a%20string.ipynb)
+* [construct the rectangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/construct%20the%20rectangle.ipynb)
