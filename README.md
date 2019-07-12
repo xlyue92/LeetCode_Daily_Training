@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (98)
+### Update everyday (100)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [fizz buzz](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/fizz%20buzz.ipynb)
+* [palindrome number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/palindrome%20number.ipynb)
