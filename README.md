@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (100)
+### Update everyday (101)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [palindrome number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/palindrome%20number.ipynb)
+* [relative sort array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/relative%20sort%20array.ipynb)
