@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (103)
+### Update everyday (104)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [largest time for given digits](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/largest%20time%20for%20given%20digits.ipynb)
+* [valid mountain array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20mountain%20array.ipynb)
