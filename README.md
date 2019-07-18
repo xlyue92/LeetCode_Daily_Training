@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection (initial date: May 23rd)
-### Update everyday (104)
+### Update everyday (105)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 3) mixed with hackerrank practice & checkio
@@ -12,4 +12,4 @@ My personal leetcode practice, random selection (initial date: May 23rd)
      
      ...
    
-* [valid mountain array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20mountain%20array.ipynb)
+* [flipping an image](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/flipping%20an%20image.ipynb)
