@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (106)
+### Update everyday (107)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [reverse vowels in a string](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20vowels%20of%20a%20string.ipynb)
+* [house robber](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/house%20robber.ipynb)
