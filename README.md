@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (109)
+### Update everyday (110)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [sort characters by frequency](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/sort%20characters%20by%20frequency.ipynb)
+* [number complement](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/number%20complement.ipynb)
