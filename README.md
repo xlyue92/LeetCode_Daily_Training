@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (110)
+### Update everyday (111)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [number complement](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/number%20complement.ipynb)
+* [complex number multiplication](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/complex%20number%20multiplication%20.ipynb)
