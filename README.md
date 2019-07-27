@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (113)
+### Update everyday (114)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [robot return to origin](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/robot%20return%20to%20origin.ipynb)
+* [remove outermost parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20outermost%20parentheses.ipynb)
