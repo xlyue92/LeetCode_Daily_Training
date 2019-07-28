@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (114)
+### Update everyday (115)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [remove outermost parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20outermost%20parentheses.ipynb)
+* [n-th tribonacci number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/n-th%20tribonacci%20number.ipynb)
