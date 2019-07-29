@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [n-th tribonacci number](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/n-th%20tribonacci%20number.ipynb)
+* [product of array except self](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/product%20of%20array%20except%20self.ipynb)
