@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (116)
+### Update everyday (117)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [product of array except self](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/product%20of%20array%20except%20self.ipynb)
+* [add binary](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/add%20binary.ipynb)
