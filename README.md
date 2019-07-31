@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (117)
+### Update everyday (120)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [add binary](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/add%20binary.ipynb)
+* [search insert position](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/search%20insert%20position.ipynb)
