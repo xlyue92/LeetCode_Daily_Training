@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (122)
+### Update everyday (123)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [1-bit and 2-bit characters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/1-bit%20and%202-bit%20characters.ipynb)
+* [rotate image](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/rotate%20image.ipynb)
