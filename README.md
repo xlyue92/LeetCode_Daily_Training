@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (126)
+### Update everyday (127)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [backspace string compare](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/backspace%20string%20compare.ipynb)
+* [projection area of 3d shapes](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/projection%20area%20of%203d%20shapes.ipynb)
