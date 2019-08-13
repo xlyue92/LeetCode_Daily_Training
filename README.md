@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (130)
+### Update everyday (131)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [longest palindrome](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/longest%20palindrome.ipynb)
+* [verifying an alien dictionary](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/verifying%20an%20alien%20dictionary.ipynb)
