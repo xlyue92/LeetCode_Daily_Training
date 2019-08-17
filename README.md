@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [3 sum](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/3%20sum.ipynb)
+* [valid parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20parentheses.ipynb)
