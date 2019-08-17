@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (133)
+### Update everyday (134)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [most common word](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/most%20common%20word.ipynb)
+* [3 sum](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/3%20sum.ipynb)
