@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (136)
+### Update everyday (137)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [pascal's triangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/pascal's%20triangle.ipynb)
+* [pascal's triangle II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/pascal's%20triangle%20II.ipynb)
