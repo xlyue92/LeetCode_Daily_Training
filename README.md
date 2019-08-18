@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (134)
+### Update everyday (136)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [valid parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/valid%20parentheses.ipynb)
+* [pascal's triangle](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/pascal's%20triangle.ipynb)
