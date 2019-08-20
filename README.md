@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (138)
+### Update everyday (139)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [maximum subarray](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/maximum%20subarray.ipynb)
+* [find words that can be formed by characters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20words%20that%20can%20be%20formed%20by%20characters.ipynb)
