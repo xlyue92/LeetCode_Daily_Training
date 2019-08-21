@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (139)
+### Update everyday (140)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [find words that can be formed by characters](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/find%20words%20that%20can%20be%20formed%20by%20characters.ipynb)
+* [remove duplicates from sorted array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20duplicates%20from%20sorted%20array.ipynb)
