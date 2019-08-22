@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (140)
+### Update everyday (141)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [remove duplicates from sorted array](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20duplicates%20from%20sorted%20array.ipynb)
+* [word subsets](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/word%20subsets.ipynb)
