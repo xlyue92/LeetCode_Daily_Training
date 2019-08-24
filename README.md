@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (142)
+### Update everyday (143)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [repeated substring pattern](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/repeated%20substring%20pattern.ipynb)
+* [reverse string II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20string%20II.ipynb)
