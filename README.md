@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (144)
+### Update everyday (145)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [single-row keyboard](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/single-row%20keyboard.ipynb)
+* [search a 2d matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/search%20a%202d%20matrix.ipynb)
