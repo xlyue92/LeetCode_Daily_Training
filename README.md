@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [search a 2d matrix](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/search%20a%202d%20matrix.ipynb)
+* [maximum of absolute value expression](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/maximum%20of%20absolute%20value%20expression.ipynb)
