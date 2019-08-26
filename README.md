@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (147)
+### Update everyday (148)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [matrix cells in distance order](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/matrix%20cells%20in%20distance%20order.ipynb)
+* [compare strings by frequency of the smallest character](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/compare%20strings%20by%20frequency%20of%20the%20smallest%20character.ipynb)
