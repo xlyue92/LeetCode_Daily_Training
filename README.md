@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [maximum of absolute value expression](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/maximum%20of%20absolute%20value%20expression.ipynb)
+* [matrix cells in distance order](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/matrix%20cells%20in%20distance%20order.ipynb)
