@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (150)
+### Update everyday (151)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [container with most water](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/container%20with%20most%20water.ipynb)
+* [can place flowers](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/can%20place%20flowers.ipynb)
