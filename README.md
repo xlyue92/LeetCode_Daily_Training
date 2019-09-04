@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (152)
+### Update everyday (153)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [word pattern](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/word%20pattern.ipynb)
+* [diet plan performance](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/diet%20plan%20performance.ipynb)
