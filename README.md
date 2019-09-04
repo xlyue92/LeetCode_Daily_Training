@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (153)
+### Update everyday (154)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [diet plan performance](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/diet%20plan%20performance.ipynb)
+* [power of four](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/power%20of%20four.ipynb)
