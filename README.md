@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [power of four](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/power%20of%20four.ipynb)
+* [letter case permutation](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/letter%20case%20permutation.ipynb)
