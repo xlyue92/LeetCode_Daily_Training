@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (155)
+### Update everyday (156)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [letter case permutation](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/letter%20case%20permutation.ipynb)
+* [distance between bus stops](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/distance%20between%20bus%20stops.ipynb)
