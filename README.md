@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (158)
+### Update everyday (159)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [day of the week](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/day%20of%20the%20week.ipynb)
+* [maximum number of balloons](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/maximum%20number%20of%20balloons.ipynb)
