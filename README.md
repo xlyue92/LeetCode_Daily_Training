@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (161)
+### Update everyday (162)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [how many apples can you put into the basket](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/how%20many%20apples%20can%20you%20put%20into%20the%20basket.ipynb)
+* [minimum absolute difference](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/minimum%20absolute%20difference.ipynb)
