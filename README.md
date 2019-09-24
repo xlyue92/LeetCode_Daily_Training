@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (163)
+### Update everyday (164)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [string without AAA or BBB](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/string%20without%20AAA%20or%20BBB.ipynb)
+* [is subsequence](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/is%20subsequence.ipynb)
