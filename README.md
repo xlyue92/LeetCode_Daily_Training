@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (164)
+### Update everyday (165)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [is subsequence](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/is%20subsequence.ipynb)
+* [reverse substrings between each pair of parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20substrings%20between%20each%20pair%20of%20parentheses.ipynb)
