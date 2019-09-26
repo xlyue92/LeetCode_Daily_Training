@@ -12,3 +12,14 @@ My personal leetcode practice, random selection
      ...
    
 * [reverse substrings between each pair of parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20substrings%20between%20each%20pair%20of%20parentheses.ipynb)
+
+
+
+<!--
+如果你再给我一个机会，
+我以后会养你的，所有的钱都我出，
+你的工资你自己存着就好
+然后我每个月都会把工资上交给你，只留10刀零花钱
+我会帮你打扫房间做饭等等……
+
+-->
