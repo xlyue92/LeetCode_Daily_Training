@@ -12,3 +12,14 @@ My personal leetcode practice, random selection
      ...
    
 * [reverse substrings between each pair of parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/reverse%20substrings%20between%20each%20pair%20of%20parentheses.ipynb)
+
+<!--
+
+你现在看不起我，不尊重我
+是因为你不成熟
+
+我原谅你
+毕竟我也有不成熟的时候
+总有一天你会知道珍惜我
+
+-->
