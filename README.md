@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (166)
+### Update everyday (167)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [score of parentheses](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/score%20of%20parentheses.ipynb)
+* [unique number of occurrences](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/unique%20number%20of%20occurrences%20.ipynb)
