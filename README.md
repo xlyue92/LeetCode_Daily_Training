@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (167)
+### Update everyday (168)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [unique number of occurrences](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/unique%20number%20of%20occurrences%20.ipynb)
+* [remove all adjacent duplicates in string II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string%20II.ipynb)
