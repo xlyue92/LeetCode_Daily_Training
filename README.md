@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (168)
+### Update everyday (169)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [remove all adjacent duplicates in string II](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/remove%20all%20adjacent%20duplicates%20in%20string%20II.ipynb)
+* [intersection of three sorted arrays](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/intersection%20of%20three%20sorted%20arrays.ipynb)
