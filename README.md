@@ -1,6 +1,6 @@
 # LeetCode_Daily_Training
 My personal leetcode practice, random selection
-### Update everyday (169)
+### Update everyday (170)
 1) language: Python 3 (Jupyter Notebook)
 2) problem description & solution 
 ### Table
@@ -11,4 +11,4 @@ My personal leetcode practice, random selection
      
      ...
    
-* [intersection of three sorted arrays](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/intersection%20of%20three%20sorted%20arrays.ipynb)
+* [plit a string in balanced strings](https://github.com/xlyue92/LeetCode_Daily_Training/blob/master/split%20a%20string%20in%20balanced%20strings.ipynb)
